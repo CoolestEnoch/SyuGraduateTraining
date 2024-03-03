@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    width: 100%;
+    height: 40px;
+    background-color: #333;
+}
+
+.pro{
+    width: 1226px;
+    height: 120px;
+    background-color: #fff;
+    /* 居中 */
+    margin: 0px auto;
+}
+
+.container{
+    width: 1226px;
+    height: 460px;
+    background-color: pink;
+    /* 居中 */
+    margin: 10px auto;
+    /* background-image: url("https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccf991ad5ab393ba61cf59cf28e5ce03.png?w=2452&h=920"); */
+    background-image: url("../../img/jinfan.png");
+    background-size: 100% 100%;
+}
